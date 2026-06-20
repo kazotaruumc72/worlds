@@ -26,6 +26,7 @@ allprojects {
         maven("https://repo.thenextlvl.net/releases")
         maven("https://repo.thenextlvl.net/snapshots")
         maven("https://repo.papermc.io/repository/maven-public/")
+        maven("https://maven.canvasmc.io/releases")
     }
 
     dependencies {
